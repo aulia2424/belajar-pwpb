@@ -1013,7 +1013,9 @@ header#main-header.menu-sticky {
   font-family: "Inter", sans-serif;
   background-repeat: repeat-x;
   background-position: 100% 100%;
-  color: transparent;
+  color: #97d2ec;
+  z-index: 2100;
+  position: relative;
   background-clip: text;
   -webkit-font-smoothing: antialiased;
   -webkit-background-clip: text;
