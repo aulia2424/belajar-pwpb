@@ -208,6 +208,27 @@ section .color:nth-child(24) {
   height: 1300px;
   background: #2b4865;
 }
+section .color:nth-child(25) {
+  bottom: -11900px;
+  left: 100px;
+  width: 1200px;
+  height: 1300px;
+  background: #81cacf;
+}
+section .color:nth-child(26) {
+  bottom: -12200px;
+  right: 100px;
+  width: 1200px;
+  height: 1300px;
+  background: #2b4865;
+}
+section .color:nth-child(27) {
+  bottom: -12500px;
+  left: 100px;
+  width: 1200px;
+  height: 1300px;
+  background: #81cacf;
+}
 
 .container-fluid {
   padding: 0 100px;
